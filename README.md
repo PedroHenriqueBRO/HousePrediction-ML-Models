@@ -2,7 +2,11 @@
 
 ## 📝 Descrição
 Este projeto tem como objetivo prever o preço de imóveis a partir de diferentes variáveis (metragem, localização, número de quartos, etc.).  
-Foram aplicadas técnicas de **análise exploratória, tratamento de dados, engenharia de atributos e comparação de múltiplos modelos de Machine Learning**.  
+Foram aplicadas técnicas de **análise exploratória, tratamento de dados, engenharia de atributos e comparação de múltiplos modelos de Machine Learning**.
+## Kaggle
+https://www.kaggle.com/datasets/anmolkumar/house-price-prediction-challenge
+
+As bases de dados utilizadas no projeto foram retiradas do kaggle no link acima.
 
 ---
 
