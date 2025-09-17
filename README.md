@@ -64,8 +64,9 @@ Foram aplicadas técnicas de **análise exploratória, tratamento de dados, enge
 ## 🚀 Como Rodar
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
-   cd nome-do-repo
+   git clone https://github.com/PedroHenriqueBRO/HousePrediction-ML-Models.git #para HTTPS
+   git clone git@github.com:PedroHenriqueBRO/HousePrediction-ML-Models.git #para SSH
+   cd HousePrediction-ML-Models
    ```
 2. Crie um ambiente virtual e instale as dependências:  
    ```bash
